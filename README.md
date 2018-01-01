@@ -12,3 +12,6 @@ in committed stage
 
 ## Testing
 
+in staging area
+
+in working dir
