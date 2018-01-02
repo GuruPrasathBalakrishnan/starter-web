@@ -15,3 +15,7 @@ in committed stage
 in staging area
 
 in working dir
+
+## Copyright
+
+copyright notice
